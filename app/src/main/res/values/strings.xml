@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PresentationApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="home">Mock-Up Bluetooth app</string>
+    <string name="power">On/Off</string>
+    <string name="connection">Connect/Disconnect</string>
+    <string name="temp">Temp</string>
+    <string-array name="options_array">
+        <item>"Power and Connection Settings"</item>
+        <item>"Volume and Brightness</item>
+    </string-array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
